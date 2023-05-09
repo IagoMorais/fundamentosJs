@@ -8,4 +8,5 @@
     console.log(m1 - m2);
  }
  menos(10, 5);
- menos(15, 30)
+ menos(15, 30);
+ 

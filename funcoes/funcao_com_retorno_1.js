@@ -1,6 +1,6 @@
 //return retorna algo
 function sempreRetornaUm() {
-return 1000;
+return 1000;// nada depois sera executado 
 }
 
 function textoOuNumero(retornaTexto){

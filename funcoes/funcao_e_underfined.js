@@ -1,6 +1,6 @@
 // quando nao define nada o que ela retorna.
 function semRetorno(){
-    console.log('Funçao foi Chamada');
+    console.log('Funçao foi chamada');
 }
 
 let a = 3;
