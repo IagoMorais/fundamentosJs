@@ -15,4 +15,5 @@ switch(Math.ceil(nota)) {
 
 }
 }
-console.log(`O conseito do aluno é ${notaParaConceito(6)}`)
+console.log(`O conseito do iago é ${notaParaConceito(6)}`)
+console.log(`O conseito da thais é ${notaParaConceito(8,1)}`)
