@@ -1,4 +1,4 @@
-// deichar mais descritivo nos nomes das variaveis ex; media das duas maiores.
+
 
 const nota1 = 5.8;
 const nota2 = 1.1;
@@ -8,7 +8,7 @@ function minimo(n1,n2) {
     return n1 <= n2 ? n1 : n2;
 }
 
-function mediaDuasMaiores(n1, n2, n3){ //parametros
+function media(n1, n2, n3){ //parametros
 const menorNota = minimo(n1, minimo(n2, n3));
 
 if(menorNota === n1){
@@ -19,10 +19,10 @@ if(menorNota === n1){
     return (n1 +n2) / 2;
 }
 }
-function mediaParaStatus(mmediaDuasMaioresedia){
-    if(mediaDuasMaiores >=7){
+function mediaParaStatus(media){
+    if(media >=7){
         return "aprovado";
-}else if(mediaDuasMaiores >= 4){
+}else if(media >= 4){
     return "Recuperação";
 }else {
     return "Reprovado";

@@ -1,0 +1,12 @@
+function retornaUmafuncao() {
+    return function () {
+        return function () {
+            return "boa tarde ";
+        }
+    }
+}
+
+console.log(retornaUmafuncao);
+console.log(retornaUmafuncao());
+console.log(retornaUmafuncao()());
+console.log(retornaUmafuncao()()());
