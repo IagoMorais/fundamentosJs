@@ -6,4 +6,5 @@ console.log(numeros);
 
 console.log(numeros.pop());
 console.log(numeros.pop());
+
 console.log(numeros);
