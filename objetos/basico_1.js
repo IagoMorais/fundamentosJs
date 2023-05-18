@@ -17,6 +17,7 @@ console.log(produto.desconto);
 
 console.log(typeof produto);
 console.log(typeof n);
+console.log(typeof n);
 
 
 
