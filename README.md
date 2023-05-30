@@ -1,11 +1,6 @@
 # fundamentosJs
 fundamentosJs
 
-🪧 Vitrine.Dev	
-✨ js
-🏷️ Tecnologias	Js.
-🚀 URL	(https://github.com/IagoMorais/cursoNodeJs)
-
 # cursoJs
 Fundamentos de  Js
 
