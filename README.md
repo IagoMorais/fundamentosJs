@@ -15,5 +15,8 @@ Este projeto tem o objetivo de ter uma oportunidade do 1° Trabalho.
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 ![](https://github.com/IagoMorais/cursoNodeJs/blob/main/IMG_20230503_104250.jpg?raw=true#vitrinedev)
-
+<!---
+thaisMirone/IagoMorais is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
 ## node Js fundamentos 
